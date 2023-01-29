@@ -8,5 +8,5 @@
 
 ---
 
-![C++ Programming With Embercadero Dev C++](embercadero-cpp.jpg "Embercadero Dev C++")
+![C++ Programming With Embercadero Dev C++](embercadero-cpp.png "Embercadero Dev C++")
 https://www.embarcadero.com/free-tools/dev-cpp/free-download
